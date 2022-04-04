@@ -1,4 +1,4 @@
-import GSAP from 'gsap'
+import GSAP from 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.2/gsap.min.js'
 
 export default class {
   constructor({ element, viewport, scroll }) {
