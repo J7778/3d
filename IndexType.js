@@ -4,7 +4,6 @@ import { TypeTransition } from './TypeTransition';
 import { Item } from './Item';
 import gsap from 'gsap/gsap-core';
 
-const IndexType = () => {
 // preload images then remove loader (loading class) 
 //preloadImages('.item__img, .article__img').then(() => document.body.classList.remove('loading'));
 
@@ -180,6 +179,5 @@ const closeItem = () => {
 }
 
 backCtrl.addEventListener('click', () => closeItem());
-}
 
 export default IndexType;
