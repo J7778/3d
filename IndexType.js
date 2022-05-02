@@ -1,7 +1,7 @@
 //import { preloadImages } from './utils';
 import { gsap } from 'gsap';
-import { TypeTransition } from './js/TypeTransition';
-import { Item } from './js/Item';
+import { TypeTransition } from './TypeTransition';
+import { Item } from './Item';
 import gsap from 'gsap/gsap-core';
 
 const IndexType = () => {
