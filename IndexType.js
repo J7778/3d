@@ -1,7 +1,7 @@
 //import { preloadImages } from './utils';
 import { gsap } from 'gsap';
-import { TypeTransition } from './TypeTransition';
-import { Item } from './Item';
+import { TypeTransition } from 'https://gitcdn.link/cdn/J7778/3d/main/TypeTransition.js';
+import { Item } from 'https://gitcdn.link/cdn/J7778/3d/main/Item.js';
 import gsap from 'gsap/gsap-core';
 
 // preload images then remove loader (loading class) 
