@@ -1,5 +1,5 @@
 import gsap from 'gsap/gsap-core';
-import { Article } from './Article';
+import { Article } from 'https://gitcdn.link/cdn/J7778/3d/main/Article.js';
 
 export class Item {
     // DOM elements
